@@ -1,0 +1,10 @@
+{
+    "allowed_when_disabled": [
+        "togglecontrol",
+        "help"
+    ],
+    "blacklisted_keybinds": [
+        "ctrl+alt+delete",
+        "ctrl+alt+del"
+    ]
+}
