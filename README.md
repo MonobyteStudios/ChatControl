@@ -34,7 +34,7 @@ A list of all commands your viewers can execute in chat.
 
 ### ⌨️ Keyboard
 - `!type <content>` - Types specified content onto the host
-- `!keybind <keybind, ex. 'ctrl+shift+esc>` - Execute a keybind on the host, blacklisted keybinds are provided in `config.json`
+- `!keybind <keybind, ex. 'ctrl+shift+esc'>` - Execute a keybind on the host, blacklisted keybinds are provided in `config.json`
 - `!holdkey <key> <duration` - Holds a key for a certain time, max limit is 20 seconds
 - `!clear` - Clears selected text using `ctrl+a+del`
 
