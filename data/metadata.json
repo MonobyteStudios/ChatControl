@@ -2,9 +2,9 @@
     "name": "ChatControl",
     "description": "A lightweight Twitch ChatBot that allows viewers to send inputs and commands directly to your computer, safely and in real time.",
 
-    "copyright": "© 2025 Monobyte Studios [monobyte.studio]",
+    "copyright": "(c) 2025 Monobyte Studios [monobyte.studio]",
     "repo": "github.com/MonobyteStudios/ChatControl",
-    "license": "MIT",
+    "license": "GNU GPLv2",
 
     "version": "1.0.0",
     "buildver": "2025.07.25"
