@@ -145,3 +145,7 @@ Only moderators of chat can execute these commands
     You don't have to run ChatControl this way; you can do it via Visual Studio Code, `.bat` files, you name it.
 
     > 💡 You can also activate venv first, then directly run main.py from there. If you don't want the terminal to show, use `pythonw.`
+
+# Credits
+- As2Bax *(Lead Production)* - Lead Development
+- Astrid *(Programmer & Web Developer)* - Legal
