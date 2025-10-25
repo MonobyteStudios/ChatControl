@@ -149,3 +149,5 @@ Only moderators of chat can execute these commands
 # Credits
 - As2Bax *(Lead Production)* - Lead Development
 - Astrid *(Programmer & Web Developer)* - Legal
+  
+*Inspired by TCMP2's chat control (https://twitch.tv/twitchcontrolsmypc2) as an open sourced rewrite*
