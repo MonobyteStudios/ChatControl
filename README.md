@@ -1,4 +1,4 @@
-![ChatControl Logo](https://monobyte.studio/assets/projects/chatcontrol.png)
+![ChatControl Logo](https://cdn.monobyte.studio/projects/chatcontrol.png)
 # ChatControl
 A lightweight Twitch ChatBot that allows viewers to send inputs and commands directly to your computer, safely and in real time.
 
